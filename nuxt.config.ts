@@ -1,0 +1,10 @@
+// https://nuxt.com/docs/api/configuration/nuxt-config
+export default defineNuxtConfig({
+  compatibilityDate: '2025-07-15',
+  devtools: { enabled: true },
+   future: {
+    compatibilityVersion: 4,
+  },
+  modules: ['@nuxt/ui', '@nuxt/image','nuxt-countup'],
+   css: ['~/assets/css/tailwind.css'],
+})

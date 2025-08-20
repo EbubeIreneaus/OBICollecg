@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+@import "@nuxt/ui";
+
+@theme {
+    --font-arial: Arial, serif;
+    --font-playfair: 'Playfair Display', Arial;
+    --color-primary: blue;
+    --color-secondary: yellow;
+    --color-error: red;
+    --color-neutral: whitesmoke
+}
+
+body {
+    @apply bg-white font-arial text-slate-950
+}
