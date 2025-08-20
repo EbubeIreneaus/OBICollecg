@@ -8,6 +8,7 @@
           height="100"
           alt="logo"
           format="webp"
+          class="h-[100px]"
         />
         <div class="items-center gap-x-2 hidden md:flex text-black">
           <div class="border rounded-full px-2 py-1">
@@ -107,6 +108,7 @@
               width="250"
               height="100"
               quality="80"
+              class="h-[100px]"
             />
           </div>
 
