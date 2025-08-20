@@ -109,6 +109,8 @@
               height="100"
               quality="80"
               class="h-[100px]"
+              alt="logo"
+             
             />
           </div>
 

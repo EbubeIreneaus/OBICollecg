@@ -26,7 +26,7 @@
         :options="countOptions"
         class="text-2xl font-arial font-extrabold text-center"
       />
-      <p class="text-xl font-playfair font-bold text-center mt-3">
+      <p class="text-xl font-playfair font-bold text-center mt-3 text-white">
         Graduated Student
       </p>
     </u-card>
