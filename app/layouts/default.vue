@@ -4,12 +4,11 @@
       <u-container as="div" class="flex justify-between items-center">
         <nuxt-img
           src="/logo-tr.png"
-          width="250"
-          height="100"
+          width="300"
           densities="x1"
           alt="logo"
           format="webp"
-          class="h-[100px] object-cover object-center"
+          class=" object-cover object-center "
         />
         <div class="items-center gap-x-2 hidden md:flex text-black">
           <div class="border rounded-full px-2 py-1">
@@ -106,13 +105,13 @@
             <nuxt-img
               src="/logo-tr.png"
               format="webp"
-              width="250"
-              height="100"
+              width="300"
               quality="80"
               densities="x1"
               alt="logo"
-              class="h-[100px] object-cover object-center"
+              class="object-cover object-center mb-3"
             />
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae deserunt fuga nesciunt sed commodi amet illo itaque sit id sint!</p>
           </div>
 
           <div class="col-span-3 md:col-span-1">
