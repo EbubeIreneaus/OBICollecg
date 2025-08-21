@@ -1,8 +1,8 @@
 <template>
   <div class="grid md:grid-cols-2 gap-3 mt-5">
     <u-card :ui="{ root: 'bg-amber-500 ring-0' }">
-      <CountUp
-
+      <count-up
+      :options="countOptions"
         :endVal="100"
         class="text-2xl font-arial font-extrabold text-center"
       />
@@ -44,6 +44,7 @@
 </template>
 
 <script setup>
+import CountUp from 'vue-countup-v3'
 const countOptions = {
   suffix: "+",
   enableScrollSpy: true,
