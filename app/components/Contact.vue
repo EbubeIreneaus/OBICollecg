@@ -1,6 +1,6 @@
 <template>
   <div class="py-20 bg-slate-100">
-    <UContainer class="grid lg:grid-cols-2 gap-5">
+    <UContainer class="grid lg:grid-cols-2 gap-5" id="support">
       <div>
         <h2 class="text-5xl font-extrabold font-playfair">Reach Out To Us</h2>
         <p class="text-lg font-medium mb-4 mt-1">

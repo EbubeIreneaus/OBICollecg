@@ -11,5 +11,9 @@
 }
 
 body {
-    @apply bg-white font-arial text-slate-950
+    @apply bg-white font-arial text-slate-950;
+}
+
+html {
+    scroll-behavior: smooth;
 }

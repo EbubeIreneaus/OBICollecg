@@ -1,6 +1,6 @@
 <template>
   <div class="mb-20">
-    <u-container>
+    <u-container id="event">
       <h2 class="text-5xl font-extrabold font-playfair mb-7 text-center">
         Upcoming Events
       </h2>

@@ -1,6 +1,6 @@
 <template>
   <u-container class="mb-20 py-20">
-    <div class="grid lg:grid-cols-2 gap-y-5 items-center mb-10">
+    <div class="grid lg:grid-cols-2 gap-y-5 items-center mb-10" id="about">
       <div>
         <nuxt-img
           src="/images/about-image.jpg"

@@ -1,5 +1,5 @@
 <template>
-  <div class="mb-20">
+  <div class="mb-20" id="gallery">
     <div class="overflow-x-hidden mx-5">
       <div class="row1">
         <div class="flex flex-nowrap gap-x-1 track1">

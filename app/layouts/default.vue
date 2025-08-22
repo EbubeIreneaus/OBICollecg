@@ -185,10 +185,10 @@
 <script lang="ts" setup>
 const navLinks = [
   { label: "home", href: "/" },
-  { label: "about us", href: "/about" },
+  { label: "about us", href: "#about" },
   { label: "events", href: "#event" },
   { label: "Gallery", href: "#gallery" },
-  { label: "support", href: "support" },
+  { label: "support", href: "#support" },
 ];
 const openNavMd = ref(false);
 </script>
